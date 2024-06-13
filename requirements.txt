@@ -1,2 +1,4 @@
-os
+telebot
+requests
 time
+os
